@@ -1,1 +1,1 @@
-demo : https://far-away-by-yokubjanovich.netlify.app/
+demo : https://kalkulyator-by-yokubjanovich.netlify.app/
